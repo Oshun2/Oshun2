@@ -43,9 +43,8 @@ Currently...
 
 
 * [Azure SOC & Honeynet](https://github.com/Oshun2/Azure-Cloud-SOC)
+* [Vulnerability-Management](https://github.com/Oshun2/Vulnerability-Management)
 
-
-###
 <!-- Tools -->
 
 
