@@ -18,9 +18,12 @@
 
 ###
 <!-- About and stuffs -->
-<h3 align="left">💅🏾 About Me</h3>
+<h3 align="left">About Me</h3>
 
-A strong foundation in IT, a passion for protecting digital assets and a proactive approach to threat analysis. Enjoys leveraging technical skills to safeguard privacy and contribute to solutions that can make a positive impact. 
+Thank you for visiting my GitHub! This repository is meant to showcase my cybersecurity journey and the projects I've had the privilege of working on.
+
+
+I invite you to explore my GitHub portfolio to get a glimpse into my technical capabilities. These projects showcase insights into my problem-solving approach, attention to detail, and ability to analyze risks and implement appropriate mitigation strategies. strong foundation in IT, a passion for protecting digital assets and a proactive approach to threat analysis. Enjoys leveraging technical skills to safeguard privacy and contribute to solutions that can make a positive impact. 
 
 Currently...
 
