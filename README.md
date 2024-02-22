@@ -27,9 +27,9 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 
 Currently...
 
-- 🔭 Studying for AZ-900. 
+- 🔭 Studying for AZ-104. 
 
-- 📚 Learning Cloud GRC. 
+- 📚 Learning Red Hat Linux. 
 
 
   
