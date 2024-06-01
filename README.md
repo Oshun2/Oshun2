@@ -29,7 +29,7 @@ Currently...
 
 - 🔭 Studying for AZ-104. 
 
-- 📚 Learning Red Hat Linux. 
+- 📚 Learning machine learning and AI concepts related to Microsoft Azure services. 
 
 
   
@@ -41,7 +41,7 @@ Currently...
 
 
 * [Azure SOC & Honeynet](https://github.com/Oshun2/Azure-Cloud-SOC)
-* [Vulnerability-Management](https://github.com/Oshun2/Vulnerability-Management)
+  
 
 <!-- Tools -->
 
