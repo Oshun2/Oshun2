@@ -1,4 +1,4 @@
-<div align="center"><center><h1>Welcome, I'm Omani!</h1> 
+<div align="center"><h1>Welcome, I'm Omani!</h1> 
 
 
 <div align="center">
