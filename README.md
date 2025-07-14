@@ -5,11 +5,10 @@
 <img height="200" src="https://gitlab.com/iruldanet/iruldanet/-/raw/main/img/gitlab-readme-banner-headerv4.gif" />
 </div>
 ###
-<div align="center">
-<a>
+
    [![Subscribe On Youtube](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@reedcyberready)
    [![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omair24/)
-</a>
+
 </div>
 ### <!-- About and stuffs -->
 <h3 align="left">About Me</h3>
@@ -22,13 +21,9 @@ Currently...
 ### <!-- Projects -->
 <h3 align="left">⚙️Recent Projects</h3>
 * [Azure SOC & Honeynet](https://github.com/Oshun2/Azure-Cloud-SOC)
-### <!-- Footer Banner, Bye Bye -->
+ <!-- Footer Banner, Bye Bye -->
 <div align="center">
 <img height="200" src="https://gitlab.com/iruldanet/iruldanet/-/raw/main/img/gitlab-readme-banner-footer.gif" />
-</div>
-### <!-- Visitor count -->
-<div align="center">
-<img src="https://profile-counter.glitch.me/damitasalmon/count.svg?" />
 </div>
 
 
