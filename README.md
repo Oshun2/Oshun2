@@ -8,7 +8,7 @@
 <div align="center">
    [![Subscribe On Youtube](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@reedcyberready)
    [![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omair24/)
-</div>
+
 </div>
  <!-- About and stuffs -->
 <h3 align="left">About Me</h3>
