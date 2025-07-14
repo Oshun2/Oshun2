@@ -1,4 +1,8 @@
-<div align=<h1>Welcome, I'm Omani!</h1> 
+
+# Hi there, I'm Omani 
+
+[![Subscribe On Youtube](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@reedcyberready)
+[![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omair24/)
 
 
 <div align="center">
