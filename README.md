@@ -74,4 +74,4 @@ with the source CSVs.
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/omair24/)
+📫 [LinkedIn](https://www.linkedin.com/in/omaireed/)
