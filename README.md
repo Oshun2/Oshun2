@@ -14,8 +14,8 @@ writing the check that catches the break next time.
 
 ## Featured work
 
-### 🔐 [sentinel-secure-ingestion](https://github.com/Oshun2/sentinel-secure-ingestion)
-[![verify](https://github.com/Oshun2/sentinel-secure-ingestion/actions/workflows/verify.yml/badge.svg)](https://github.com/Oshun2/sentinel-secure-ingestion/actions/workflows/verify.yml)
+### 🔐 [sentinel-secure-ingestion](https://github.com/Oreedtech/sentinel-secure-ingestion)
+[![verify](https://github.com/Oreedtech/sentinel-secure-ingestion/actions/workflows/verify.yml/badge.svg)](https://github.com/Oreedtech/sentinel-secure-ingestion/actions/workflows/verify.yml)
 
 A private-only log ingestion pipeline for Microsoft Sentinel, written in Terraform. Event
 Hubs behind a private endpoint with SAS auth disabled, a VNet-integrated function consuming
@@ -33,7 +33,7 @@ to audit an account that is already audited without one.
 
 > Clone it and run the policy suite yourself — no Azure subscription or credentials needed.
 
-### 📋 [cmmc-to-az104](https://github.com/Oshun2/cmmc-to-az104) · [browse the site →](https://oshun2.github.io/cmmc-to-az104/)
+### 📋 [cmmc-to-az104](https://github.com/Oreedtech/cmmc-to-az104) · [browse the site →](https://oreedtech.github.io/cmmc-to-az104/)
 
 All 125 CMMC 2.0 practices (15 at Level 1, 110 at Level 2) mapped to the Azure resources
 that implement them, the evidence that proves each one is met, and the Azure CLI to
@@ -53,8 +53,8 @@ with the source CSVs.
 
 | Repository | What it is |
 |---|---|
-| [Azure-Cloud-SOC](https://github.com/Oshun2/Azure-Cloud-SOC) | A guided honeynet lab (2023) — Sentinel attack telemetry measured before and after hardening. Clearly labeled as a walkthrough, kept because the before/after numbers are real. |
-| [serverless-resume-api](https://github.com/Oshun2/serverless-resume-api) | A fork of `madebygps/serverless-resume-api`, deployed to my own domain with added Static Web Apps CI, routing, and DNS work. |
+| [Azure-Cloud-SOC](https://github.com/Oreedtech/Azure-Cloud-SOC) | A guided honeynet lab (2023) — Sentinel attack telemetry measured before and after hardening. Clearly labeled as a walkthrough, kept because the before/after numbers are real. |
+| [serverless-resume-api](https://github.com/Oreedtech/serverless-resume-api) | A fork of `madebygps/serverless-resume-api`, deployed to my own domain with added Static Web Apps CI, routing, and DNS work. |
 
 ---
 
